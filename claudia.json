@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "cazzate-txt-lambda-executor",
+    "name": "cazzate-txt-lambda",
+    "region": "eu-central-1"
+  },
+  "api": {
+    "id": "10bk1scq8k",
+    "module": "app"
+  }
+}
