@@ -15,5 +15,9 @@
   },
   "devDependencies": {
     "standard": "^14.3.4"
-  }
+  },
+  "files": [
+    "config.json",
+    "**/*.js"
+  ]
 }
